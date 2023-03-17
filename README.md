@@ -1,3 +1,5 @@
-# PortfolioProject: Nashville Housing
+# PortfolioProject: Data Cleaning
 
-Queries for a Data Cleaning Project based on SQL.
+SQL based Data cleaning projects, using Micrsoft SQL Server to clean the data and Tableau to make visualizations.
+1. Nashiville Housing 
+2. Covid Dashboard
